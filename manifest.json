@@ -1,0 +1,30 @@
+{
+  "speed_cameras": {
+    "version": "2026-05-02T02:13:40Z",
+    "url": "https://raw.githubusercontent.com/yen0802/apexlog/main/data/speed_cameras_tw.csv",
+    "size_bytes": 236737,
+    "sha256": "4ccd06a0a2f615a26b6edfe14fdfa5a3a4632a11f55447b1dace94622c4f78f1",
+    "description": "1873 點測速 + 56 區間測速 (data.gov.tw 7320, 2026-05-01)"
+  },
+  "tech_enforcement": {
+    "version": "2026-05-02T02:13:40Z",
+    "url": "https://raw.githubusercontent.com/yen0802/apexlog/main/data/tech_enforcement_tw.csv",
+    "size_bytes": 181,
+    "sha256": "97fc4d779c25d8e9c8292c11ddc27b1c7ee2aac7bc5452c88bb7f9b04fabcb61",
+    "description": "科技執法（民間整理）"
+  },
+  "motorway_graph": {
+    "version": "2026-05-02T02:13:40Z",
+    "url": "https://raw.githubusercontent.com/yen0802/apexlog/main/data/tw_motorway_graph.json",
+    "size_bytes": 2566563,
+    "sha256": "0d63f6d66282ee5268792ffad0ebd1e7f4badd189efecf601bf64937cc053fa7",
+    "description": "全台國道 / 快速 / 都會高架座標（Overpass）"
+  },
+  "overlapping_roads": {
+    "version": "2026-05-02T02:13:40Z",
+    "url": "https://raw.githubusercontent.com/yen0802/apexlog/main/data/tw_overlapping_roads.json",
+    "size_bytes": 1344486,
+    "sha256": "19f066b0a1b87d846523ece8b489dcca9b400b3daa13c987297be53f3ab9f8bb",
+    "description": "高架/平面 + 分隔島快/慢車道 zone"
+  }
+}
